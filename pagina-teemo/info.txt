@@ -1,0 +1,8 @@
+COLOR DEL TEMA #4C1919
+IMAGEN https://www.google.com/search?q=teemo&tbm=isch&sxsrf=AOaemvKqHTtq1Aitsd4zn1xI9Kbm6b_73w%3A1641252493868&source=hp&biw=1536&bih=722&ei=jYbTYbStMpXW1sQP9v64qAc&iflsig=ALs-wAMAAAAAYdOUnRXJeg02nSoMws-r3UuEj7JSjazt&oq=tee&gs_lcp=CgNpbWcQARgBMggIABCABBCxAzIICAAQgAQQsQMyCAgAEIAEELEDMgUIABCABDIFCAAQgAQyBQgAEIAEMggIABCABBCxAzIFCAAQgAQyBQgAEIAEMgUIABCABDoHCCMQ7wMQJ1AAWP8BYN0MaABwAHgAgAGMAYgB2gKSAQMxLjKYAQCgAQGqAQtnd3Mtd2l6LWltZw&sclient=img#imgrc=k49vutWFa7VDBM
+TIPO DE LETRA <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alata&display=swap" rel="stylesheet">
+CSS rules to specify families
+
+font-family: 'Alata', sans-serif;
